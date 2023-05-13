@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @TannerKD
+- 👀 I’m interested in learning more in depth C programming concepts such as algorithms.
+- 🌱 I’m currently studying computer engineering at university.
