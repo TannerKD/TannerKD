@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @TannerKD
-- 👀 I’m interested in learning more in depth C programming concepts such as algorithms.
-- 🌱 I’m currently studying computer engineering at university.
-- tanner.dalde@ieee.org
+- 👀 I was studying electrical engineering (ee) in the United States, and currently study ee in Baden-Württemberg, Germany.
+- 🌱 My primary interest is in the applications of ee in solving smart agriculture and precision farming issues. I am still new to the domain, but I am very ethically motivated in this topic.
+- 🔗 Personal Website: ["https://tannerkd.github.io/personal-website/docs/main.html"] (WIP)
